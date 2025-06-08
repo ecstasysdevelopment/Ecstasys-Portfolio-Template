@@ -4,10 +4,6 @@ A modern, clean and customizable developer/designer portfolio template. Built wi
 
 ## 📸 Preview
 
-![Portfolio Preview](preview/home.png)
-![Portfolio Preview](preview/about.png)
-![Portfolio Preview](preview/contact.png)
-![Portfolio Preview](preview/additional.png)
 
 ## 🚀 Features
 
@@ -19,17 +15,6 @@ A modern, clean and customizable developer/designer portfolio template. Built wi
 ## 🛠️ Built With
 
 - HTML / TailwindCSS / JS
-
-## 📁 Project Structure
-
-portfolio/
-├── assets/
-│ └── logo.png
-├── assets/
-│ └── about.html
-│ └── contact.html
-│ └── additional.html
-└── index.html
 
 ## 📥 Contributing
 
