@@ -16,8 +16,7 @@ A modern, clean and customizable developer portfolio template. Built with ❤️
 
 ## 🛠️ Built With
 
-- HTML / CSS / JS  
-  _(or TailwindCSS / React / Next.js – uprav dle projektu)_
+- HTML / TailwindCSS / JS
 
 ## 📁 Project Structure
 
